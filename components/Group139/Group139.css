@@ -1,0 +1,36 @@
+.group-139 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 38px;
+  min-width: 62px;
+  position: absolute;
+  top: 2948px;
+}
+.overlap-group4 {
+  height: 24px;
+  position: relative;
+  width: 60px;
+}
+.price {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-weight: 800;
+  left: 8px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 46px;
+}
+.rectangle-46 {
+  background-color: var(--red);
+  height: 8px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 60px;
+}
