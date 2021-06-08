@@ -310,6 +310,7 @@ function LandingPageMobile(props) {
             </div>
           </div>
           <div className="frame-5">
+            
             <div className="quick-links valign-text-middle typographyheadlineh5-extrabold-20">{quickLinks}</div>
             <div className="frame-4">
               <Frame140 aboutUs={frame140Props.aboutUs} projects={frame140Props.projects} />
